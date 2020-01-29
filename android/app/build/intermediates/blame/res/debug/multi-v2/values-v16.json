@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/anand/Desktop/react-native/NavExperimentExpo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/anand/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f60bc0a328e46d57b15596af0945ef06/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/anand/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/776b4cd02b388f692aff0d9948792181/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
